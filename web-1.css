@@ -1,0 +1,108 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.nev {
+    overflow: hidden;
+    background-color: black;
+    top: 0%;
+}
+
+.nev a {
+    background-color: black;
+    text-align: center;
+    font-weight: 400;
+    float: right;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    border-radius: 25px;
+    
+}
+.nev a:hover {
+
+    background-color: rgb(16, 188, 131);
+    color: black;
+}
+
+.cen {
+    width: 100%;
+    overflow: auto;
+    padding: auto;
+    text-align: center;
+
+
+}
+
+.cen h3 {
+    color:rgb(16, 188, 131) ;
+}
+
+.cen h1 {
+    font-size: 50px;
+
+
+}
+
+.cen div {
+    width: 50%;
+    float: left;
+} 
+
+
+.cen div img {
+    width: 75%;
+    height: 75%;
+}
+
+.text {
+    margin-top: 55px;
+
+}
+
+/* about */
+.abo {
+    width: 100%;
+    overflow: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.abo div {
+    width: 50%;
+    float: left;
+}
+.abo div img {
+    width: 60%;
+    height: auto;
+}
+
+/* Service */
+.ser h1 {
+    font-size: 50px;
+}
+
+.ser pre {
+    font-size: 17px;
+}
+
+.me {
+    text-align: center;
+}
+
+.me h1 {
+    font-size: 50px;
+}
+.me button {
+    border-radius: 15px;
+    font-size: large;
+    background-color:rgb(16, 188, 131);
+    
+}
+
+.me a {
+    text-decoration: none;
+    color: black;
+}
